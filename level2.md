@@ -1,6 +1,6 @@
 ##Livello 2 -- Sintomi emergenti
 
-![](/images/sneezing-emoji.png)
+![](/assets/images/sneezing-emoji.png)
 
 Notare se si hanno i seguenti sintomi iniziali:
 
@@ -53,7 +53,7 @@ Poi scrivi tutti i sintomi del paziente. Se soffre, dove e quando soffre, e quan
   
 Il paracetamolo (noto anche come acetaminofene) è una buona scelta per far diminuire la febbre e il dolore. Tenere un diario della malattia ti aiuterà anche a tracciare quanti medicinalli hai preso e quando, per assicurarti di trattare la febbre in modo adeguato senza prenderne più della quantità raccomandata in un periodo di 24 ore.
 
-[![](/images/diary-small-slanted.png)](/diary)
+[![](/assets/images/diary-small-slanted.png)](/diary)
 
 #### Diario della malattia stampabile
 

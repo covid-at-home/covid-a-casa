@@ -10,7 +10,7 @@ Se abbiamo incluso degli esempi (generalmente dalla versione tedesca di Amazon),
 
 * **Termometro per la febbre** (2-10 EUR/USD) ([esempio](https://www.amazon.de/gp/product/B001NYHXYS))
 
-   > ![](/images/thermometer.png)
+   > ![](/assets/images/thermometer.png)
    >
    > Questo è così importante che probabilmente dovresti controllare il tuo se è rimasto nel mobiletto del bagno per anni. La batteria è ancora a posto? Non fa male averne due, non si sa mai. Al costo di 2-10 dollari, sono degli ottimi regali (e siccome possono essere inseriti analmente per ottenere una misurazione più precisa, potrebbero non essere oggetti che si vogliono prestare a qualcuno).
 
@@ -29,29 +29,29 @@ Se abbiamo incluso degli esempi (generalmente dalla versione tedesca di Amazon),
 ### Cose che non sarebbe male avere
 
 **Ossimetro ad impulsi** (20-25 EUR/USD) ([esempio](https://www.amazon.de/gp/product/B07P3ZS6L3))  **Vedi nota qui sotto!
-   > ![](/images/pulse-oxi.png)
+   > ![](/assets/images/pulse-oxi.png)
    >
    > Piccolo gadget che si aggancia al dito e mostra la frequenza cardiaca (che è anche facile da misurare in altri modi) e la saturazione di ossigeno nel sangue (che è difficile da misurare in qualsiasi altro modo).
 
 * **Indicatore della pressione sanguigna** (20 EUR/USD circa) ([esempio](https://www.amazon.de/gp/product/B07KY867ZH))  **Vedi nota qui sotto!
-   > ![](/images/blood-pressure.png)
+   > ![](/assets/images/blood-pressure.png)
    >
    > Ci sono semplici trucchi per vedere se la pressione sanguigna di qualcuno sta diventando troppo bassa (vedi il testo principale su questo sito). Tuttavia, può essere utile essere in grado di fare questa misurazione in modo più oggettivo, soprattutto se si vuole vedere/mostrare l'andamento della pressione sanguigna del paziente.<br>
    > **Tuttavia... Cosa NON si dovrebbe fare:** *Non si dovrebbe acquistare uno di questi aggeggi, misurare la pressione sanguigna, trovare qualcosa su Internet che ha una "gamma normale", e farsi prendere dal panico se la pressione sanguigna è più alta o più bassa. Molte persone hanno la pressione sanguigna alta o bassa, e lo stress aumenta la pressione sanguigna (e la frequenza cardiaca). Anche se avere una pressione sanguigna elevata per un lungo periodo di tempo può essere certamente qualcosa che si potrebbe voler menzionare al proprio medico quando si è lì, questo NON E' UN PROBLEMA DA CONDIVIDERE CON UN MEDICO CHE STA LAVORANDO IN MEZZO A UNA PANDEMIA"*.
    
 ** **Incontinenza / teli impermeabili** (20 EUR/USD circa) ([esempio](https://www.amazon.de/Comfortcare-Inkontinenz-Bettw%C3%A4sche-waschbar-Blau/dp/B07W7CCQVG) o [esempio](https://www.amazon.de/Co-operative-Independent-Living-Bettdeckenbezug-wasserabweisend/dp/B00BJMA8X2))
-   > ![](/images/sheet.png)
+   > ![](/assets/images/sheet.png)
    >
    > Le persone malate a volte hanno degli incidenti. Ci ringrazierete per questo suggerimento.
 
 * **Inalatore di vapore** (25 EUR/USD circa) ([esempio](https://www.amazon.de/gp/product/B07SNQH6CZ))
-   > ![](/images/steam.png)
+   > ![](/assets/images/steam.png)
    >
    > Spesso venduti per fare una "sauna per il viso" o con qualsiasi altro nome, sono solo apparecchi che emettono vapore non troppo caldo da respirare. Anche qualsiasi altro metodo che produca vapore va bene, basta assicurarsi di non fare danni con il vapore troppo caldo. Il dispositivo preleva acqua demineralizzata ([esempio](https://www.amazon.de/gp/product/B07J5Y95MQ)), soprattutto nei luoghi in cui l'acqua del rubinetto è ricca di calcio. 
    > **Attenzione:** I dispositivi caldi e umidi sono un ottimo mezzo per diffondere il virus in giro. Probabilmente meglio usare per una persona malata alla volta o almeno pulire meticolosamente ogni volta.
 
 * **Vitamine** (qualche EUR/USD) ([esempio](https://www.amazon.de/dp/B07S63PCZK))
-   > ![](/images/multi-vitamin.png)
+   > ![](/assets/images/multi-vitamin.png)
    >
    > Per quando il paziente non mangia più (molto) ma beve ancora. Magari prendi le grandi pillole multivitaminiche che frizzano nell'acqua, un paio di tubetti di quelle. Prova a procurarti quelle che contengono circa 1-2 volte la dose giornaliera raccomandata di tutte le vitamine e i minerali che contengono, senza esagerare con megadosi pazzesche al 1000%.
 
@@ -74,7 +74,7 @@ E poi c'è il fatto che alcune persone si sono fatte prendere dal panico, mentre
 Quindi, prima di tutto, e lo sottolineiamo: **Ascolta i consigli ufficiali su cosa *non* comprare** in modo da non rendere le cose non disponibili ai medici e agli infermieri che ne hanno più bisogno. Le politiche e la pratica generale per quanto riguarda le maschere varieranno in tutto il mondo per un po' di tempo a venire. Uscire con una maschera o indossarne una nella vita quotidiana regolare se si è in buona salute non è supportato dalle prove scientifiche sul come rimanere in salute. Se hai accesso a una maschera, probabilmente ha senso indossarne una se ti senti un po' male o hai la tosse, ma devi assolutamente uscire. Ha senso indossarla anche se ci si prende cura di qualcuno che è malato. In alcuni paesi è addirittura obbligatorio nei protocolli di quarantena COVID per l'assistenza domiciliare. Verifica in quali circostanze le autorità ti forniranno le maschere. Vedi il testo principale su altre cose a cui pensare quando si tratta di contenere il più possibile la diffusione del virus.
 
 * **Maschera medica, preferibilmente N95** (qualche EUR/USD)
-   > ![](/images/mask.png)
+   > ![](/assets/images/mask.png)
    >
    > Si raccomandano anche i respiratori FFP2 o FFP3. Una maschera facciale regolare (chirurgica o procedurale) è meglio di niente se non si riesce ad ottenere un respiratore. Si noti che i respiratori sono disponibili in versione con e senza valvola. La valvola (spesso un coso di plastica rotondo) fa uscire l'aria espirata non filtrata. Questo va bene se si sta dipingendo a spruzzo, e può andare bene se si sta proteggendo una persona nota e sana da una persona nota e malata, ma in nessun caso il malato deve indossare una versione con valvola. 
 
@@ -83,7 +83,7 @@ Quindi, prima di tutto, e lo sottolineiamo: **Ascolta i consigli ufficiali su co
    > La cosa migliore è trovare un abito a maniche lunghe e resistente all'acqua. 
 
 * **Guanti** (meno di un EUR/USD) ([esempio](https://www.amazon.de/dp/B01LWJ80C7))
-   > ![](/images/gloves.png)
+   > ![](/assets/images/gloves.png)
 
 **Protezione degli occhi, occhiali o visiera** (qualche EUR/USD) ([esempio](https://www.amazon.de/dp/B002THV25Y))
-   > ![](/images/glasses.png)
+   > ![](/assets/images/glasses.png)

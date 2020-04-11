@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+remote_theme: covid-at-home/common
 title: COVID a Casa
 description: Una guida collaborativa alla cura di COVID-19
 url: https://covid-a-casa.info

@@ -6,11 +6,11 @@ Tutta la buona assistenza del livello 2 non ha funzionato e le cose stanno peggi
 
 Questo è il momento in cui inizate a dire alle altre persone intorno a te che siete veramente malati e che state per lo più a letto. Parlate con qualcuno di cui vi fidate su come potrebbe doversi prendere cura di voi. Fate leggere questo documento a questa persona o a queste persone. Se nel vostro ambiente ci sono persone che hanno già avuto il COVID-19 (cosa che sarà sempre più comune con il passare del tempo), queste persone potrebbero essere le più adatte ad assistervi, in quanto dovrebebro essere diventate immuni. Altrimenti cercate di capire ciò che è meglio fare nelle circostanze in cui vi trovate. In ogni caso, non aspettate fino all'ultimo momento, perché se la malattia progredisce vi mancherà il respiro, cosa che inevitabilmente influirà anche sulla vostra capacità di parlare e di pensare con chiarezza.
 
-![](/images/sick-in-bed.png)
+![](/assets/images/sick-in-bed.png)
 
 ### In ogni caso
 
-* Rimanete a letto. A questo punto il riposo è molto importante. Il paziente dovrebbe dormire il più possibile. Almeno all'inizio, i pazienti potranno ancora alzarsi dal letto per un periodo di tempo limitato. WC, una doccia con risciacquo rapido, pesata una volta al giorno (nota in [diario](/images/covid-diary.pdf)). Cambiate le lenzuola il più spesso possibile e lavate le vecchie lenzuola a 60 gradi o anche di più.
+* Rimanete a letto. A questo punto il riposo è molto importante. Il paziente dovrebbe dormire il più possibile. Almeno all'inizio, i pazienti potranno ancora alzarsi dal letto per un periodo di tempo limitato. WC, una doccia con risciacquo rapido, pesata una volta al giorno (nota in [diario](/assets/images/covid-diary.pdf)). Cambiate le lenzuola il più spesso possibile e lavate le vecchie lenzuola a 60 gradi o anche di più.
 * Aereate la stanza il più spesso possibile.
 * Bevete più acqua! (più di 2 litri e meno di 5 litri al giorno).
 * Provate a mangiare cibi ricchi di vitamine (va bene anche una bevanda multivitaminica).
@@ -36,7 +36,7 @@ Tra i comportamenti che potrebbero essere utili ci sono:
 
 ### Diario della malattia
 
-Come accennato nella sezione precedente, si consiglia di utilizzare questo [modulo stampabile](/images/covid-diary.pdf), oppure di crearne uno proprio. 
+Come accennato nella sezione precedente, si consiglia di utilizzare questo [modulo stampabile](/assets/images/covid-diary.pdf), oppure di crearne uno proprio. 
 
 In questa fase, fate attenzione soprattutto ai sintomi che potrebbero suggerire un peggioramento. Leggete la sezione successiva per maggiori dettagli, ma fra questi sintomi sono inclusi vertigini o tachicardia (bevete di più e mangiate qualcosa se potete), respirazione rapida (alzate la testa mentre siete sdraiati o abbassatela al tavolo mentre siete seduti per una respirazione più facile), e la comparsa del colore blu sui polpastrelli o sulle labbra (cianosi - prendete aria fresca, riscaldatevi e controllate l'ossigenazione del sangue, se possibile). Considerate anche l'utilizzo di tecniche di rilassamento per rallentare una respirazione rapida o la frequenza cardiaca, che può essere in parte dovuta all'ansia: ascoltate musica rilassante, parlate con un amico tramite Internet, o cercate di rallentare la respirazione e abbassare la frequenza cardiaca contando più a lungo per l'espirazione forzata che per l'inspirazione dolce. (Alcune persone usano il 4-7-8 e altre preferiscono il 5-2-5 per cercare di rallentare il ritmo di inspirazione e di espirazione).
 

@@ -25,7 +25,7 @@ Ove possibile, segui le istruzioni delle autorità. Questo include alcune delle 
 
 ### Rimani in salute
 
-![](/images/situps.png)
+![](/assets/images/situps.png)
 
 Oltre a questo, si possono fare cose per rimanere il più sani possibile:
 

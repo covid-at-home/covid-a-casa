@@ -20,7 +20,7 @@ Contare le respirazioni al minuto tenendo la mano abbastanza vicina da sentire i
 
 L'assistenza domiciliare immediata per i problemi respiratori può comprendere la ventilazione della stanza del paziente e il puntellamento del paziente in modo che possa stare in posizione eretta ma comodamente a riposo. È anche una buona idea sollevare la testata del letto per dormire, se possibile, e ci sono alcune posizioni di sonno che possono rendere più facile anche la respirazione (vedi Livello 3, Lavoro di cura).
 
-![](/images/dyspnoe.png)
+![](/assets/images/dyspnoe.png)
 
 Se voi o il paziente soffrite di mancanza di respiro / respiro affannoso, consultate un medico.
 
@@ -28,17 +28,17 @@ Se voi o il paziente soffrite di mancanza di respiro / respiro affannoso, consul
 
 Se si dispone di un ossimetro (vedi [pagina acquisti](/shopping)), qualsiasi saturazione di ossigeno inferiore al 95% può indicare un problema respiratorio. Se in qualsiasi momento i **lip o i polpastrelli del paziente diventano blu** (o anche leggermente blu) (chiamati cianosi), chiamate un'ambulanza! Se la percentuale è inferiore al 96%, portate aria fresca nella stanza del paziente e riscaldatelo.
 
-![](/images/cyanosis.png)
+![](/assets/images/cyanosis.png)
 
 (Chiamare anche un medico se le dita delle mani, dei piedi o le labbra diventano meno blu di così...)
 
 Se la pelle del paziente riceve una copertura di pizzo viola (chiamata anche livedo reticularis) come sotto (e questo non è normale per il paziente), anche questo è un motivo per chiedere aiuto.
 
-![](/images/livedo-reticularis.png)
+![](/assets/images/livedo-reticularis.png)
 
 ### Pressione sanguigna molto bassa
 
-La pressione sanguigna inferiore al fondo del range normale (90 mmHg sistolica, 60 mmHg diastolica) è motivo di preoccupazione. Si noti che la pressione sanguigna si presenta come due numeri, la pressione sistolica e la pressione diastolica. Se avete un dispositivo automatico a buon mercato, dovrebbe dirvi entrambi questi numeri. Se si dispone di un apparecchio, annotare la pressione sistolica sul [modulo diario](/images/covid-diary.pdf).
+La pressione sanguigna inferiore al fondo del range normale (90 mmHg sistolica, 60 mmHg diastolica) è motivo di preoccupazione. Si noti che la pressione sanguigna si presenta come due numeri, la pressione sistolica e la pressione diastolica. Se avete un dispositivo automatico a buon mercato, dovrebbe dirvi entrambi questi numeri. Se si dispone di un apparecchio, annotare la pressione sistolica sul [modulo diario](/assets/images/covid-diary.pdf).
 
 Se non si dispone di un dispositivo per misurare la pressione sanguigna o si hanno problemi a ottenere una lettura, provare invece a testare il tempo di ricarica capillare del paziente. Controllare mettendo le dita piatte su una superficie dura. Usa il dito per premere su una delle sue unghie dall'alto. L'unghia dovrebbe perdere colore. Controllare quanto tempo ci mette l'unghia a tornare del colore normale. Dovrebbero volerci 1-2 secondi. Più a lungo di così può indicare bassa pressione sanguigna. Potrebbe anche essere un sintomo di disidratazione.
 
